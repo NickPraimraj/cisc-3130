@@ -1,4 +1,4 @@
-There are 132 unique Artist in the Top 200 Chart.
+There are 131 unique Artist in the Top 200 Chart.
 
 HEAD -> Tail
 24kGoldn
