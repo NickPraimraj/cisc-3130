@@ -1,0 +1,135 @@
+There are 132 unique Artist in the Top 200 Chart.
+
+HEAD -> Tail
+24kGoldn
+6ix9ine
+Alex Rose
+Ali Gatie
+Anuel AA
+Ariana Grande
+Arizona Zervas
+Ava Max
+Aya Nakamura
+Bad Bunny
+BANNERS
+Bea Miller
+BENEE
+Billie Eilish
+Black Eyed Peas
+blackbear
+BLACKPINK
+Bring Me The Horizon
+BTS
+BØRNS
+Calvin Harris
+Camilo
+Cardi B
+Chris Brown
+Conan Gray
+Curtis Waters
+DaBaby
+Dalex
+Dan + Shay
+Dean Lewis
+DJ Khaled
+Doja Cat
+Don Toliver
+Drake
+Dua Lipa
+Ed Sheeran
+Eminem
+Feid
+Future
+Gunna
+Halsey
+Harry Nach
+Harry Styles
+Headie One
+Hozier
+Imagine Dragons
+Internet Money
+ITZY
+J Balvin
+Jack Harlow
+JACKBOYS
+James Arthur
+Jason Derulo
+Jawsh 685
+Jay Wheeler
+Jerry Di
+Jhay Cortez
+Joel Corry
+John Legend
+Jowell & Randy
+JP Saxe
+Juice WRLD
+Jul
+Justin Bieber
+Justin Quiles
+K/DA
+Kane Brown
+KAROL G
+Kendrick Lamar
+KHEA
+Kina
+KitschKrieg
+Kygo
+Labrinth
+Lady Gaga
+Lewis Capaldi
+Lil Baby
+Lil Mosey
+Lil Peep
+Machine Gun Kelly
+Maluma
+Manuel Turizo
+Maroon 5
+Marshmello
+MEDUZA
+Megan Thee Stallion
+Melanie Martinez
+Miley Cyrus
+Morgan Wallen
+Nea
+Niack
+Nio Garcia
+Noah Cyrus
+Ozuna
+Passenger
+Peach Tree Rascals
+Polo G
+Pop Smoke
+Post Malone
+Powfu
+Queen
+Rauw Alejandro
+Regard
+Robin Schulz
+Roddy Ricch
+ROSALÍA
+SAINt JHN
+Saweetie
+Sech
+Selena Gomez
+Shawn Mendes
+StaySolidRocky
+Super Yei
+Surf Mesa
+Surfaces
+Tainy
+Tame Impala
+Tate McRae
+Taylor Swift
+The Chainsmokers
+The Kid LAROI
+The Neighbourhood
+THE SCOTTS
+The Weeknd
+Tones And I
+Topic
+Travis Scott
+Trevor Daniel
+Trueno
+Wallows
+WhoHeem
+XXXTENTACION
