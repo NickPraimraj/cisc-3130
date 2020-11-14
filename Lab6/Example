@@ -1,0 +1,41 @@
+run:
+Only integers can be entered for grade values.
+Please enter your overall grade for pratice problems, labs, midterms and final in that order. Press enter after typing in each value.
+
+44
+16
+20
+20
+
+Your grade for CISC 3130 is: A
+The grade range for your grade is: 90 - 100
+
+If you want to recalculate your grade please enter: recalculate. If not enter in no.
+recalculate
+
+Only integers can be entered for grade values.
+Please enter your overall grade for pratice problems, labs, midterms and final in that order. Press enter after typing in each value.
+
+22
+16
+15
+15
+
+Your grade for CISC 3130 is: D
+The grade range for your grade is: 60 - 69
+
+If you want to recalculate your grade please enter: recalculate. If not enter in no.
+recalculate
+
+Only integers can be entered for grade values.
+Please enter your overall grade for pratice problems, labs, midterms and final in that order. Press enter after typing in each value.
+
+60
+16
+20
+20
+Exception in thread "main" gradecalulator3130.GradeToHighException: One of the values for the grades entered was above the allowable amount.
+	at gradecalulator3130.Grade.<init>(Grade.java:37)
+	at gradecalulator3130.GradeCalulator3130.main(GradeCalulator3130.java:44)
+Java returned: 1
+BUILD FAILED (total time: 46 seconds)
