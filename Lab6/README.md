@@ -7,3 +7,5 @@ pratice problem grade (max 44), the lab grade (max 16), midterm grade
 exception of entering a number that is larger than the max values and
 will give your grade as a letter with the number range corresponding to
 that letter grade.
+
+## An example of this programming running is included.
