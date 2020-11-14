@@ -1,4 +1,4 @@
-###How this program works:
+### How this program works:
 
 For this lab we had to make a calculator that would calculate our grade
 for the semester. The items used in the grade calculation are the
