@@ -1,1 +1,2 @@
-This program when executed will print out "Hello World!".
+The html file in this repo can be moved into another repo that only deals with the website itself.
+Which I have done but I made the website orginate from a index.html in my main repo for this class.
